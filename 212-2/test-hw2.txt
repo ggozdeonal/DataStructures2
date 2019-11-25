@@ -1,0 +1,18 @@
+insert ACGT
+insert ACGCA
+display
+insert CACGA
+insert GCACGA
+insert CGACGA
+display
+insert TCTACGA
+insert GCA
+display
+remove GCACGA
+remove GCTCGGA
+display-lengths
+search AC
+search ACG$
+search CGACGA$
+remove ACGCA
+display-lengths
